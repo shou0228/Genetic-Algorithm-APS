@@ -12,7 +12,7 @@
 
 ![image](https://user-images.githubusercontent.com/68886395/158196237-71a49176-3093-4932-bbab-f3a46171610e.png)圖2
 
-![image](https://user-images.githubusercontent.com/68886395/158197196-85237504-e2bc-4449-bf52-3370e688df36.png)圖3
+![image](https://user-images.githubusercontent.com/68886395/158204879-2d0fce92-8c37-4f38-82c0-6cb6fcc82f34.png)圖3
 
 圖1高階顯卡種類三種，以 A、B、C 代表。各類顯卡工序相同（依序為自動鎖付風扇、人工鎖付背板、光學檢測步驟），但各工作站所需工作
 
