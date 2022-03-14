@@ -104,7 +104,7 @@ f.適應值計算
 
 製的親代以及複製的子代染色體，用以被第 121 行的迴圈迭代，取出單一染色體用來被其他部分所計算。
 
-(影像: image)![image](https://user-images.githubusercontent.com/68886395/158212494-4b3b18fc-4ffb-4b0a-96c1-42bb56d76d9a.png)
+![image](https://user-images.githubusercontent.com/68886395/158212624-661de217-6048-4ca6-8669-2c4e3509b5e4.png)
 
 
 
