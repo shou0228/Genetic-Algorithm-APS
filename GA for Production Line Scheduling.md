@@ -72,7 +72,7 @@ c.交配:
 
 ![image](https://user-images.githubusercontent.com/68886395/158209048-d5e807aa-bac6-40e0-a831-835bcdd84809.png)
 
-d. 修復:
+d.修復:
 
 前一步驟所進行的交配，為隨機切割排列的方式。此會導致有些染色體內的基因(工件)出現次數過多或過少，如下圖所示，子代的5和3
 
@@ -81,6 +81,24 @@ d. 修復:
 ![image](https://user-images.githubusercontent.com/68886395/158209637-476e54e0-bb5b-4ffc-9567-a2fb229ce45a.png)
 
 ![image](https://user-images.githubusercontent.com/68886395/158209691-e8a94a38-a78d-4b44-83b2-2d9b06996166.png)
+
+e.突變
+
+依據先前突變選擇率(mutation selection rate)決定染色體中有多少百分比的基因要進行突變，假設每條染色體有 9 個基因，如下圖所示。
+
+當 mutation selection rate 為 0.2 時，經由 9*0.2的計算並採四捨五入方式決定2個基因要進行突變。
+
+![image](https://user-images.githubusercontent.com/68886395/158210506-10365c6d-5134-4067-980b-11909012b4a7.png)
+
+![image](https://user-images.githubusercontent.com/68886395/158210538-edc1b6e1-20e2-4666-ae37-b72e14bd66be.png)
+
+f.適應值計算
+
+此問題目標為求出最短完工時間，故在適應值計算階段需寫出適合度函數的程式碼，用以計算適應值，即最短完工時間。
+
+本階段程式碼分為 4 個部分，依序為「計算前設定」、「以機器做工件排序」、「排程邏輯」以及「適應值紀錄」。
+
+
 
 
 
