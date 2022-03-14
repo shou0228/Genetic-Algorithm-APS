@@ -10,4 +10,10 @@
 
 ✒️comply GA with python: 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-GA for Production Line Scheduling.md : https://github.com/shou0228/Genetic-Algorithm-APS/blob/2ab57a42c34936fc34a14bdaa3d977b67df1b4c3/GA%20for%20Production%20Line%20Scheduling.md
+GA for Production Line Scheduling.md : 
+
+https://github.com/shou0228/Genetic-Algorithm-APS/blob/2ab57a42c34936fc34a14bdaa3d977b67df1b4c3/GA%20for%20Production%20Line%20Scheduling.md
+
+APS-GA.py
+
+https://github.com/shou0228/Genetic-Algorithm-APS/blob/d1e63cdab8a01731367eabc4617f3d57e6d78679/APS-GA.py
