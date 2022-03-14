@@ -58,7 +58,7 @@ b.編碼:
 
 ![image](https://user-images.githubusercontent.com/68886395/158208361-cc726e95-33e4-49b7-8c91-f7ef77249038.png)
 
-透過隨機的方式，產生初始序列的染色體
+透過隨機的方式，產生初始序列的染色體。
 
 ![image](https://user-images.githubusercontent.com/68886395/158208411-14fb3725-e97d-4c46-9992-f8421d4bd714.png)
 
@@ -66,11 +66,23 @@ c.交配:
 
 本研究藉由上一步驟產生的隨機序列染色體中，隨機抽取兩個兩個一組，根據初始設定的交配率來決定是否要進行交配，如果要交配
 
-則藉由切割方式將兩組剛剛抽的染色體設為母代，並藉由切割染色體內基因線段的方式重新組成兩個子代
+則藉由切割方式將兩組剛剛抽的染色體設為母代，並藉由切割染色體內基因線段的方式重新組成兩個子代。
 
 ![image](https://user-images.githubusercontent.com/68886395/158209023-3c7711cd-9d64-4a6e-893e-32e1519c503b.png)
 
 ![image](https://user-images.githubusercontent.com/68886395/158209048-d5e807aa-bac6-40e0-a831-835bcdd84809.png)
+
+d. 修復:
+
+前一步驟所進行的交配，為隨機切割排列的方式。此會導致有些染色體內的基因(工件)出現次數過多或過少，如下圖所示，子代的5和3
+
+會因此形成一個不可行的子代染色體排程解，此時本研究需將不可行的子代染色體進行修復動作，藉以得到可行解。
+
+![image](https://user-images.githubusercontent.com/68886395/158209637-476e54e0-bb5b-4ffc-9567-a2fb229ce45a.png)
+
+![image](https://user-images.githubusercontent.com/68886395/158209691-e8a94a38-a78d-4b44-83b2-2d9b06996166.png)
+
+
 
 
 
