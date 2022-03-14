@@ -34,6 +34,11 @@
 
 ![image](https://user-images.githubusercontent.com/68886395/158203159-c700fcb3-7e65-44f5-8325-04214134d3f6.png)
 
+>生產線製程資訊轉換excel表:
+
+![image](https://user-images.githubusercontent.com/68886395/158203628-b995496e-0104-4e72-aff9-0763f71dc580.png)
+
+
 
 
 
