@@ -34,12 +34,13 @@
 
 ![image](https://user-images.githubusercontent.com/68886395/158203159-c700fcb3-7e65-44f5-8325-04214134d3f6.png)
 
->生產線製程資訊轉換excel表(平行機台)
+>生產線製程資訊轉換excel表(平行機台):
 
 M0: 1台自動螺絲機、M1': 2位作業員 和 M2': 2台AOI機。各機台M數字部分為時間(分鐘)，Quantity 為各自工單的生產數量(個)
 
-
 ![image](https://user-images.githubusercontent.com/68886395/158203628-b995496e-0104-4e72-aff9-0763f71dc580.png)
+
+
 
 
 
