@@ -46,11 +46,23 @@ a.初始設定:將讀檔後的資料及所需變數進行命名
 
 ![image](https://user-images.githubusercontent.com/68886395/158207172-2f2f9023-e779-4f31-98ef-2effae28b7fe.png)
 
-“num_mc”為機器數，“num_job”為工件數，“pt”為處理時間的命名，“ct”為換線時間，主要是將資料內的位置以陣列方式去做讀取
+“num_mc”為機器數，“num_job”為工件數，“pt”為處理時間的命名，“ct”為換線時間，主要是將資料內的位置以陣列方式去做讀取。
 
 “typeSequence”主要為判斷工件 ABC 的種類。圖中 26-31 行為屆時程式可以自行輸入的觀察值、交配率、突變率、突變選擇率和所
 
-需交配的次數等，也可選擇不輸入直接以本研究預設的默認值為準
+需交配的次數等，也可選擇不輸入直接以本研究預設的默認值為準。
+
+b.編碼:
+
+編碼程序
+
+![image](https://user-images.githubusercontent.com/68886395/158208361-cc726e95-33e4-49b7-8c91-f7ef77249038.png)
+
+透過隨機的方式，產生初始序列的染色體
+
+![image](https://user-images.githubusercontent.com/68886395/158208411-14fb3725-e97d-4c46-9992-f8421d4bd714.png)
+
+
 
 
 
