@@ -1,4 +1,4 @@
-# Genetic-Algorithm for APS #自動化生產線排程 #平行機台
+# Genetic-Algorithm for APS #自動化生產線排程 #平行機台 
 
 ✒️排程目標: 
 
@@ -6,10 +6,13 @@
 
 ✒️生產線製程資訊與訂單資訊
 ![image](https://user-images.githubusercontent.com/68886395/158193978-0402b276-8bfe-423b-9c65-15ba9304b01a.png)
-圖1
+
+圖1 
 ![image](https://user-images.githubusercontent.com/68886395/158196237-71a49176-3093-4932-bbab-f3a46171610e.png)
+
 圖2
 ![image](https://user-images.githubusercontent.com/68886395/158197196-85237504-e2bc-4449-bf52-3370e688df36.png)
+
 圖3
 
 參照圖1高階顯卡種類三種，以 A、B、C 代表。各類顯卡工序相同（依序為自動鎖付風扇、人工鎖付背板、光學檢測步驟），但各工作站所需工作時長不同並具有不同機種換線時間。圖2訂單資訊包含多筆工單，模擬生產現場之商品種類多、交期不同、數量不同。圖3可得自動螺絲機一台人工鎖付背板之作業員數量為兩人，光學檢測 AOI 機兩台，性能及工作時長相同。
