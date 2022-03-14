@@ -7,7 +7,9 @@
 ✒️生產線製程資訊與訂單資訊
 ![image](https://user-images.githubusercontent.com/68886395/158193978-0402b276-8bfe-423b-9c65-15ba9304b01a.png)
 
-![image](https://user-images.githubusercontent.com/68886395/158196132-ddbb5a7e-3d1e-4de8-a50f-e69978c2ee97.png)
+![image](https://user-images.githubusercontent.com/68886395/158196237-71a49176-3093-4932-bbab-f3a46171610e.png)
+
+高階顯卡種類三種，以 A、B、C 代表，參照圖1。各類顯卡工序相同（依序為自動鎖付風扇、人工鎖付背板、光學檢測步驟），但各工作站所需工作時長不同。
 
 
 
