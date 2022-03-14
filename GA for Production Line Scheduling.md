@@ -134,7 +134,7 @@ g.選擇
 
 本階段程式碼採用輪盤法(Roulette wheel)選擇較好的染色體，擁有較高適應值的染色體在輪盤中會有較大的比率被選擇
 
-![image](https://user-images.githubusercontent.com/68886395/158213860-e5f948b8-d37b-4884-ac92-cae13ab20ee6.png)
+![image](https://user-images.githubusercontent.com/68886395/158215388-910b5a8d-c2b4-4bdb-b034-3a2b42722357.png)
 
 h. 比較
 
@@ -165,7 +165,7 @@ i.結果
 ![image](https://user-images.githubusercontent.com/68886395/158214947-d5b3d8b5-3ea9-405b-acd2-7c460ff438e2.png)
 
 最終程式碼執行結果:
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![image](https://user-images.githubusercontent.com/68886395/158214998-736d769d-9330-4615-a114-dfc951cea7a8.png)
 
 
