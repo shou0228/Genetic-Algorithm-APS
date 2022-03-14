@@ -1,4 +1,3 @@
-# Genetic-Algorithm-APS
 # Genetic-Algorithm for APS #自動化生產線排程 #平行機台 
 
 ✒️排程目標: 
