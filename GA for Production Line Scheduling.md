@@ -158,11 +158,13 @@ i.結果
 
 近似最佳解時間（the optimal time）以及終止條件所使用的最佳解時間比率（the optimal time ratio）
 
-參照下圖為印出內容以及 XY關係圖（交配次數（generation）/總完工時間（makespan））的程式其中本 XY 關係圖表示交配50次數到 4000 餘次
+參照下圖印出內容以及 XY關係圖（交配次數（generation）/總完工時間（makespan））的程式其中本 XY 關係圖表示交配50次數到 4000 餘次
 
 即找到近似最佳解，而總交配次數為 8000 餘次，終止條件成立(optimal_time_ration < 0.5)，故交配跌代(iteration)停止。
 
 ![image](https://user-images.githubusercontent.com/68886395/158214947-d5b3d8b5-3ea9-405b-acd2-7c460ff438e2.png)
+
+最終程式碼執行結果:
 
 ![image](https://user-images.githubusercontent.com/68886395/158214998-736d769d-9330-4615-a114-dfc951cea7a8.png)
 
