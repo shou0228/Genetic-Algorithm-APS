@@ -36,7 +36,7 @@
 
 >生產線製程資訊轉換excel表(平行機台)
 
-M0: 1台自動螺絲機、M1': 2位作業員 和 M2': 2台AOI機
+M0: 1台自動螺絲機、M1': 2位作業員 和 M2': 2台AOI機。數字部分為工時
 
 ![image](https://user-images.githubusercontent.com/68886395/158203628-b995496e-0104-4e72-aff9-0763f71dc580.png)
 
