@@ -40,7 +40,7 @@ M0: 1台自動螺絲機、M1': 2位作業員 和 M2': 2台AOI機。各機台M數
 
 ![image](https://user-images.githubusercontent.com/68886395/158203628-b995496e-0104-4e72-aff9-0763f71dc580.png)
 
-該excel讀檔連結 [fsp.xlsx](https://github.com/shou0228/Genetic-Algorithm-APS/blob/e5435e57e00267109aecd5d84e571929c022ee4a/fsp.xlsx) 點選parallel
+該excel讀檔連結 [fsp.xlsx](https://github.com/shou0228/Genetic-Algorithm-APS/blob/e5435e57e00267109aecd5d84e571929c022ee4a/fsp.xlsx) 檔案內點選parallel
 
 ✒️ 基因演算法程式說明:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
