@@ -12,7 +12,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🔽GA for Production Line Scheduling.md : 
 
-  [GA Automated Production Line Scheduling Document](https://github.com/shou0228/Genetic-Algorithm-APS/blob/2ab57a42c34936fc34a14bdaa3d977b67df1b4c3/GA%20for%20Production%20Line%20Scheduling.md)
+  [GA Automated Production Line Scheduling Document 基因演算法應用自動化生產線排程](https://github.com/shou0228/Genetic-Algorithm-APS/blob/2ab57a42c34936fc34a14bdaa3d977b67df1b4c3/GA%20for%20Production%20Line%20Scheduling.md)
 
 🔽APS-GA.py
 
