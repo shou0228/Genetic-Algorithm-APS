@@ -16,4 +16,4 @@
 
 🔽APS-GA.py
 
-  [complete python program file 完整程式檔](https://github.com/shou0228/Genetic-Algorithm-APS/blob/2ab57a42c34936fc34a14bdaa3d977b67df1b4c3/APS-GA.py))
+  [complete python program file 完整程式檔](https://github.com/shou0228/Genetic-Algorithm-APS/blob/2ab57a42c34936fc34a14bdaa3d977b67df1b4c3/APS-GA.py)
